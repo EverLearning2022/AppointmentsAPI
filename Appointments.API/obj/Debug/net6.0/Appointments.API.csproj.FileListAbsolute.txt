@@ -1,0 +1,7 @@
+C:\projects\Appointments\Appointments.API\obj\Debug\net6.0\Appointments.API.csproj.AssemblyReference.cache
+C:\projects\Appointments\Appointments.API\obj\Debug\net6.0\Appointments.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Appointments\Appointments.API\obj\Debug\net6.0\Appointments.API.AssemblyInfoInputs.cache
+C:\projects\Appointments\Appointments.API\obj\Debug\net6.0\Appointments.API.AssemblyInfo.cs
+C:\projects\Appointments\Appointments.API\obj\Debug\net6.0\Appointments.API.csproj.CoreCompileInputs.cache
+C:\projects\Appointments\Appointments.API\obj\Debug\net6.0\Appointments.API.MvcApplicationPartsAssemblyInfo.cs
+C:\projects\Appointments\Appointments.API\obj\Debug\net6.0\Appointments.API.MvcApplicationPartsAssemblyInfo.cache
